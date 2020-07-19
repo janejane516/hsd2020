@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/termprjt_v1/termprjt_v1.srcs/sources_1/imports/sjane0516/my_pe.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module my_pe
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/termprjt_v1/termprjt_v1.srcs/sources_1/imports/sjane0516/pe_controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pe_controller
+WARNING: [VRFC 10-3380] identifier 'load_flag_en' is used before its declaration [D:/Xilinx/termprjt_v1/termprjt_v1.srcs/sources_1/imports/sjane0516/pe_controller.v:43]
+WARNING: [VRFC 10-3380] identifier 'calc_flag_en' is used before its declaration [D:/Xilinx/termprjt_v1/termprjt_v1.srcs/sources_1/imports/sjane0516/pe_controller.v:44]
+WARNING: [VRFC 10-3380] identifier 'write_flag_en' is used before its declaration [D:/Xilinx/termprjt_v1/termprjt_v1.srcs/sources_1/imports/sjane0516/pe_controller.v:45]
+WARNING: [VRFC 10-3380] identifier 'done_flag_en' is used before its declaration [D:/Xilinx/termprjt_v1/termprjt_v1.srcs/sources_1/imports/sjane0516/pe_controller.v:46]
+WARNING: [VRFC 10-3380] identifier 'load_flag_en' is used before its declaration [D:/Xilinx/termprjt_v1/termprjt_v1.srcs/sources_1/imports/sjane0516/pe_controller.v:47]
+WARNING: [VRFC 10-3380] identifier 'load_flag' is used before its declaration [D:/Xilinx/termprjt_v1/termprjt_v1.srcs/sources_1/imports/sjane0516/pe_controller.v:48]
+WARNING: [VRFC 10-3380] identifier 'load_done' is used before its declaration [D:/Xilinx/termprjt_v1/termprjt_v1.srcs/sources_1/imports/sjane0516/pe_controller.v:49]
+WARNING: [VRFC 10-3380] identifier 'state_dd' is used before its declaration [D:/Xilinx/termprjt_v1/termprjt_v1.srcs/sources_1/imports/sjane0516/pe_controller.v:59]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/termprjt_v1/termprjt_v1.srcs/sources_1/new/tb_v0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_v0

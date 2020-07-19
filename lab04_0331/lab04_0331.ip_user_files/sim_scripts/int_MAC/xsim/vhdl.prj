@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../lab04_0331.srcs/sources_1/ip/int_MAC/sim/int_MAC.vhd" \
+
+nosort

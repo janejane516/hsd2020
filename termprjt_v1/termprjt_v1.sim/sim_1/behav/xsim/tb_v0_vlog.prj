@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../termprjt_v1.srcs/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../termprjt_v1.srcs/sources_1/bd/design_1/ipshared/70cf/hdl" --include "../../../../termprjt_v1.srcs/sources_1/bd/design_1/ip/design_1_myip_0_0/src/clk_wiz_0_4" --include "D:/Xilinx/Vivado/2018.3/data/xilinx_vip/include" \
+"../../../../termprjt_v1.srcs/sources_1/imports/sjane0516/my_pe.v" \
+"../../../../termprjt_v1.srcs/sources_1/imports/sjane0516/pe_controller.v" \
+"../../../../termprjt_v1.srcs/sources_1/new/tb_v0.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

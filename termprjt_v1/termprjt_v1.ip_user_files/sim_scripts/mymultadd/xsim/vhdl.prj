@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../termprjt_v1.srcs/sources_1/ip/mymultadd/sim/mymultadd.vhd" \
+
+nosort

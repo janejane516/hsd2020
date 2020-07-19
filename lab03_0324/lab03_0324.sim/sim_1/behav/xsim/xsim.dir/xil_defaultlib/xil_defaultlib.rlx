@@ -1,0 +1,11 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/Xilinx/lab03_0324/lab03_0324.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/Xilinx/lab03_0324/lab03_0324.srcs/sim_1/new/my_add.v,1585221279,verilog,,D:/Xilinx/lab03_0324/lab03_0324.srcs/sim_1/new/my_fusedmult.v,,my_add,,,,,,,,
+D:/Xilinx/lab03_0324/lab03_0324.srcs/sim_1/new/my_fusedmult.v,1585292714,verilog,,D:/Xilinx/lab03_0324/lab03_0324.srcs/sim_1/new/my_mul.v,,my_fusedmult,,,,,,,,
+D:/Xilinx/lab03_0324/lab03_0324.srcs/sim_1/new/my_mul.v,1584971360,verilog,,D:/Xilinx/lab03_0324/lab03_0324.srcs/sim_1/new/tb_fusedmult.v,,my_mul,,,,,,,,
+D:/Xilinx/lab03_0324/lab03_0324.srcs/sim_1/new/tb_add.v,1585048088,verilog,,,,tb_add,,,,,,,,
+D:/Xilinx/lab03_0324/lab03_0324.srcs/sim_1/new/tb_fusedmult.v,1585292714,verilog,,,,tb_fusedmult,,,,,,,,
+D:/Xilinx/lab03_0324/lab03_0324.srcs/sim_1/new/tb_mul.v,1585053728,verilog,,,,tb_mul,,,,,,,,

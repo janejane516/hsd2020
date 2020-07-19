@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/lab05_0407/lab05_0407.srcs/sim_1/new/my_bram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module my_bram
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/lab05_0407/lab05_0407.srcs/sim_1/new/tb_my_bram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_my_bram

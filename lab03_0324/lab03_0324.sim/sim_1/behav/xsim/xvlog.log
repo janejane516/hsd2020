@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/lab03_0324/lab03_0324.srcs/sim_1/new/my_add.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module my_add
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/lab03_0324/lab03_0324.srcs/sim_1/new/my_fusedmult.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module my_fusedmult
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/lab03_0324/lab03_0324.srcs/sim_1/new/my_mul.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module my_mul
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/lab03_0324/lab03_0324.srcs/sim_1/new/tb_fusedmult.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_fusedmult

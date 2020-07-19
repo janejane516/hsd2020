@@ -1,0 +1,10 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/Xilinx/lab05_0407/lab05_0407.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/Xilinx/lab05_0407/lab05_0407.srcs/sim_1/new/my_bram.v,1586845949,verilog,,D:/Xilinx/lab05_0407/lab05_0407.srcs/sim_1/new/tb_my_bram.v,,my_bram,,,,,,,,
+D:/Xilinx/lab05_0407/lab05_0407.srcs/sim_1/new/tb_my_bram.v,1586847791,verilog,,,,tb_my_bram,,,,,,,,
+D:/Xilinx/lab05_0407/lab05_0407.srcs/sources_1/ip/floating_point_MAC/sim/floating_point_MAC.vhd,1586249825,vhdl,,,,floating_point_mac,,,,,,,,
+D:/Xilinx/lab05_0407/lab05_0407.srcs/sources_1/new/my_pe.v,1586763531,verilog,,D:/Xilinx/lab05_0407/lab05_0407.srcs/sources_1/new/tb_my_pe.v,,my_pe,,,,,,,,
+D:/Xilinx/lab05_0407/lab05_0407.srcs/sources_1/new/tb_my_pe.v,1586760744,verilog,,,,tb_my_pe,,,,,,,,

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon May 11 14:58:17 2020
+# Process ID: 22964
+# Current directory: D:/Xilinx/lab08_0428/lab08_0428.runs/synth_1
+# Command line: vivado.exe -log check_1sec.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source check_1sec.tcl
+# Log file: D:/Xilinx/lab08_0428/lab08_0428.runs/synth_1/check_1sec.vds
+# Journal file: D:/Xilinx/lab08_0428/lab08_0428.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source check_1sec.tcl -notrace
